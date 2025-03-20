@@ -37,7 +37,3 @@ If you're feeling fancy, or using a platform that doesn't support Markdown, here
 Because some issues don’t deserve words. Just *The Cat*. 🐱💢  
 
 **Happy disappointing!** 🚀  
-
----
-
-This keeps the README humorous, short, and functional! 🚀
